@@ -1,0 +1,4 @@
+= Example Project
+This is just some specs that run slowly, plus one that randomly passes or fails. I'm using it to test and demo distributed CI with nanite[http://github.com/ezmobius/nanite].
+
+If you're working on a github enabled distributed CI, there's a small chance this code won't be worthless to you.
